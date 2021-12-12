@@ -1,0 +1,20 @@
+{
+  "name": "extraclass",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js anna=pizza dima=cola"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnaPrutnik/NodeJSBlended.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnnaPrutnik/NodeJSBlended/issues"
+  },
+  "homepage": "https://github.com/AnnaPrutnik/NodeJSBlended#readme"
+}
